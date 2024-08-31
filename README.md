@@ -2,7 +2,7 @@
 Generating a prompt / prompts using no code based LLMs to solve a text classification problem.
 Dataset: Spam / ham classification
 # Learning Objectives
-At the end of the mini-project, you will be able to :
+At the end of the project, you will be able to :
 Understand how to successfuly generate code using LLMs
 Following sections will help you understand the various steps required for text classification:
 Create text vectorization layer.
